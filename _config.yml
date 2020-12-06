@@ -81,6 +81,6 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
-  - LICENSE
+  - LICENSE 
   - README.md
   - CNAME
