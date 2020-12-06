@@ -5,8 +5,8 @@ published: true
 
 - Predict likelihood of distant recurrence of ER+ patients with no involdved lymph nodes
 - RT-PCR of 21 genes in paraffin-embedded tumor tissue -> RECURRENCE SCORE
-![Selection_157.png]({{site.baseurl}}/_posts/Selection_157.png)
-![Selection_158.png]({{site.baseurl}}/_posts/Selection_158.png)
+![Selection_157.png]({{site.baseurl}}/_posts/Selection_157.png?raw=true)
+![Selection_158.png]({{site.baseurl}}/_posts/Selection_158.png?raw=true)
 
 ## EndoPredict: A New Molecular Predictor of Distant Recurrence in ER-Positive,HER2-Negative Breast Cancer Adds Independent Information to Conventional Clinical Risk Factors
 
