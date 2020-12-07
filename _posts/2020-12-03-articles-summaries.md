@@ -43,3 +43,17 @@ MGP, and STC2) and 3 normalization genes (CALM2, OAZ1, and RPL37A).
 
 - 48 representative primary tumors analized
 - EP and MP cannot be used interchangeably
+
+## The nucleus measures shape changes for cellular proprioception to control dynamic cell behavior 
+Valeria Venturini et.al.
+
+- Nucleus translates cell changes into a deformation signal by regulating cell behavior!
+- In presence of deformation higher levels of myosin II are observed.
+- Cell behavior was associated with the nucleus stretching and unfolding of the inner nuclear membrane (INM).
+- INM triggeres calcium-dependent mechanotransduction pathway (via the activation of cytosolic phospholipase A2 (cPLA2))
+- Experimental setup: confinement and squeezing of cells. 
+![config.yml](/images/Selection_159.png)
+![config.yml](/images/Selection_160.png)
+
+
+
