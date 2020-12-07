@@ -2,14 +2,11 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Here is my journal to keep everything that can be expressed in words and images in one place.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[dimitrijtschodu@gmail.com](mailto:dimitrijtschodu@gmail.com)
