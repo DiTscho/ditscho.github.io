@@ -55,5 +55,16 @@ Valeria Venturini et.al.
 ![config.yml](/images/Selection_159.png)
 ![config.yml](/images/Selection_160.png)
 
+## The nucleus acts as a ruler tailoring cell responses to spatial constraints
+A. J. Lomakin et.al.
 
+- Nucleus provides cells presize measure of deformation.
+- If compressed to the size of nucleus, the nuclear envelope (NE) unfolds.
+- Contractile forces start when the NE is unfolded.
+- This mechanical change releases Calcium from nuclear memrane.
+- Calcium activates the calcium-dependent phospholipase (cPLA2).
+- cPLA2 is an enzyme that acts as a sensor of the nuclear membrane tension and it regulates signaling and metabolism.
+- Down the road, omega-fatty-6 acids and myosin II are activated.
+- Finally, this induces contractility of myosin cortex.
+![config.yml](/images/Selection_161.png)
 
