@@ -4,7 +4,7 @@ published: false
 ## Genes from hybrid signature
 
 1. **GAS7** Growth arrest-specific 7. Expressed in differentiated **brain cells**. Annotations related to this gene include **actin filament binding**.
-2. **CCT6B** Chaperonin-Containing-T-Complex Polypepdtide 1, Subunit 6B. Part of chaperonin-containing complex (**heat shock proteins**). The complex folds various proteins including actin and tubulin.
+2. **CCT6B** Chaperonin-Containing-T-Complex Polypepdtide 1, Subunit 6B. Part of chaperonin-containing complex (**heat shock proteins**). The complex folds various proteins including **actin and tubulin**.
 3. **LAMA2** Laminin, Alpha 2. Extracellularv protein and major component of the **basement membrane**. Mediates attachment, migration and organization of cells into tissues.
 4. **DNAJB9** DnaJ Heat Shock Protein Family (Hsp40) Member B9. This gene is a member of the J protein family. J proteins function in many cellular processes by regulating the ATPase activity of 70 kDa **heat shock proteins**. This gene is a member of the type 2 subgroup of DnaJ proteins. The encoded protein is localized to the endoplasmic reticulum. This protein is induced by endoplasmic reticulum stress and plays a role in protecting stressed cells from **apoptosis**.
 5. **CLIC6** Chloride Intracellular Channel 6. May insert into membranes and **form chloride ion channels**. May play a critical role in water-secreting cells, possibly through the regulation of chloride ion transport. Diseases associated with CLIC6 include Deafness, Autosomal Recessive 102 and Febrile Seizures, Familial, 5. Among its related pathways are Activation of cAMP-Dependent PKA and Neuropathic Pain-Signaling in Dorsal Horn Neurons.
