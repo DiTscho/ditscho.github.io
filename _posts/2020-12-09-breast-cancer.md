@@ -1,7 +1,31 @@
 ---
 published: false
 ---
-## Genes from hybrid signature
+# Understanding cancer metastasis (coursera Johns Hopkins)
+
+## Sequential steps of metastasis
+
+1. Primary tumor growth
+2. Angiogenesis
+3. Epithelial-to-mesenchymal transition (EMT)
+4. Invasion
+5. Intravasion
+6. Survival in circulation
+7. Extravasion
+8. Dormancy and subsequent secondary tumor growth
+
+# 1. Primary tumor growth
+
+
+
+
+
+
+
+
+
+
+# Genes from hybrid signature
 
 1. **GAS7** Growth arrest-specific 7. Expressed in differentiated **brain cells**. Annotations related to this gene include **actin filament binding**.
 2. **CCT6B** Chaperonin-Containing-T-Complex Polypepdtide 1, Subunit 6B. Part of chaperonin-containing complex (**heat shock proteins**). The complex folds various proteins including **actin and tubulin**.
