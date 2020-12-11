@@ -14,12 +14,16 @@ published: false
 7. Extravasion
 8. Dormancy and subsequent secondary tumor growth
 
-# 1. Primary tumor growth
+## 1. Primary tumor growth
 
 ![config.yml](/images/Selection_158.png)
 
 
+### Types of cancer
 
+- **carcinoma**: cancer originating from epithelial cells; 90% of all cancers e.g. prostate, lung, breast, kidney, colon, stomach
+- **sarcoma**: cancer originating from connective tissue (like muscle or bone); very rare e.g. osteosarcoma, fibrosarcoma
+- **leukemia/lymphoma**: cancer originating from blood cells and blood-forming cells; 8% of all cancers 
 
 
 
