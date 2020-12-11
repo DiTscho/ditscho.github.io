@@ -16,7 +16,7 @@ published: false
 
 # 1. Primary tumor growth
 
-
+![config.yml](/images/Selection_158.png)
 
 
 
